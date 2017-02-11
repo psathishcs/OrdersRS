@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: orders-config
+    name: OrdersRS
   profiles:
     active: dockerV3
   cloud:
